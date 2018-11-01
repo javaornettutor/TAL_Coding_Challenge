@@ -1,0 +1,8 @@
+C:\Users\William\Dropbox\Job\Coding challenge\Flexera\WW_Coding_Challenge_FootballExercise\Service_Project\obj\Debug\Service_Project.csprojAssemblyReference.cache
+C:\Users\William\Dropbox\Job\Coding challenge\Flexera\WW_Coding_Challenge_FootballExercise\Service_Project\obj\Debug\Service_Project.csproj.CoreCompileInputs.cache
+C:\Users\williamw\Dropbox\Job\Coding challenge\Flexera\WW_Coding_Challenge_FootballExercise\Service_Project\bin\Debug\Service_Project.dll
+C:\Users\williamw\Dropbox\Job\Coding challenge\Flexera\WW_Coding_Challenge_FootballExercise\Service_Project\bin\Debug\Service_Project.pdb
+C:\Users\williamw\Dropbox\Job\Coding challenge\Flexera\WW_Coding_Challenge_FootballExercise\Service_Project\obj\Debug\Service_Project.csproj.CoreCompileInputs.cache
+C:\Users\williamw\Dropbox\Job\Coding challenge\Flexera\WW_Coding_Challenge_FootballExercise\Service_Project\obj\Debug\Service_Project.dll
+C:\Users\williamw\Dropbox\Job\Coding challenge\Flexera\WW_Coding_Challenge_FootballExercise\Service_Project\obj\Debug\Service_Project.pdb
+C:\Users\williamw\Dropbox\Job\Coding challenge\Flexera\WW_Coding_Challenge_FootballExercise\Service_Project\obj\Debug\Service_Project.csprojAssemblyReference.cache

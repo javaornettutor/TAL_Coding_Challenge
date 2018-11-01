@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WW_Coding_Challenge_FootballExercise", "WW_Coding_Challenge_FootballExercise\WW_Coding_Challenge_FootballExercise.csproj", "{ED7D067B-F4E4-4533-A2A4-946C26D2471B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service_Project", "Service_Project\Service_Project.csproj", "{9E1463AA-DFBA-4BD3-A403-07084D5F1A57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED7D067B-F4E4-4533-A2A4-946C26D2471B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED7D067B-F4E4-4533-A2A4-946C26D2471B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED7D067B-F4E4-4533-A2A4-946C26D2471B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED7D067B-F4E4-4533-A2A4-946C26D2471B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E1463AA-DFBA-4BD3-A403-07084D5F1A57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E1463AA-DFBA-4BD3-A403-07084D5F1A57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E1463AA-DFBA-4BD3-A403-07084D5F1A57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E1463AA-DFBA-4BD3-A403-07084D5F1A57}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D6994B3-0189-429B-A1C5-19069039125F}
+	EndGlobalSection
+EndGlobal
